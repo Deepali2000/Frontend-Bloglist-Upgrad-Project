@@ -7,7 +7,7 @@ function postLiked()
     {
         if(numberOfClicks==1)
         {
-            document.getElementById('commentCount').innerHTML=numberOfClicks+" person like this!";
+            document.getElementById('commentCount').innerHTML=numberOfClicks+" person likes this!";
         }
         else
         {
